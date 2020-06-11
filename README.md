@@ -1,4 +1,4 @@
-Note taking web application 
+Note-taking Web Application 
 
 Practical project that can be used to create and store notes, similar to other note-taking apps
 such as "Notes" on iOS.
